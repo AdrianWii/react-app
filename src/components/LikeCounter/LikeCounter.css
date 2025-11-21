@@ -4,3 +4,16 @@
   width: 350px;
   border-radius: 0.5rem;
 }
+
+.actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.actions > button {
+  background-color: blue;
+  color: white;
+  border-radius: 0.25rem;
+  border: none;
+}
