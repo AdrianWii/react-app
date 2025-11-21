@@ -1,0 +1,6 @@
+.post {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 1rem;
+  width: 350px;
+  border-radius: 0.5rem;
+}
